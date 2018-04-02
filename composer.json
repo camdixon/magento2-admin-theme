@@ -12,7 +12,8 @@
   ],
   "autoload": {
       "files": [
-          "app/design/adminhtml/ABC/backend/registration.php"
+        "app/code/ABC/Theme/registration.php",
+        "app/design/adminhtml/ABC/backend/registration.php"
       ]
   }
 }
