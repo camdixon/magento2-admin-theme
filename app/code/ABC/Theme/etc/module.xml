@@ -3,6 +3,8 @@
   <module name="ABC_Theme" setup_version="2.0.0">
     <sequence>
       <module name="Magento_Store"/>
+      <module name="Magento_Theme"/>
+      <module name="Magento_Enterprise"/> <!-- For Enterprise versions only -->
     </sequence>
   </module>
 </config>
