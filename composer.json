@@ -12,7 +12,7 @@
   ],
   "autoload": {
       "files": [
-          "registration.php"
+          "app/design/adminhtml/ABC/backend/registration.php"
       ]
   }
 }
