@@ -2,7 +2,7 @@
   "name": "abc/theme-admin-backend",
   "description": "N/A",
   "require": {
-      "php": "~7.0.13|~7.1.0"
+    "magento-hackathon/magento-composer-installer": "*"
   },
   "type": "magento2-theme",
   "version": ">=100.2.2",
